@@ -1,1 +1,1 @@
-<iframe width="640" height="360" src="https://www.youtube.com/embed/os8FVM3o-v0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[📹 شاهد الفيديو هنا](https://youtu.be/os8FVM3o-v0)
